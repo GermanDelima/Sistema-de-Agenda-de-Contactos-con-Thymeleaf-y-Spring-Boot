@@ -23,7 +23,7 @@ Este proyecto es un sistema de gestión de contactos desarrollado con Java JDK 2
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/sistema-agenda-contactos.git
+   https://github.com/GermanDelima/Sistema-de-Agenda-de-Contactos-con-Thymeleaf-y-Spring-Boot.git
 2. Navega al directorio del proyecto
    ```sh
    cd sistema-agenda-contactos
